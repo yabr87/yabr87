@@ -1,20 +1,15 @@
-
-___
 ### Hi there, I'm Yaroslav 🇺🇦 👋
-
 I am a **junior** Front-End Developer from **Ukraine** .
-
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
-
-___
+  
 ### My project experience
-- 📄
-- 📄
-- 📄
-- 📄
-___
+- 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
+- 📄  <a href="https://github.com/yabr87/BarberShop">Barber Shop<a/>
+- 📄  <a href="https://github.com/yabr87/3d-freedom-group11">3D freedom<a/>
+- 📄  <a href="https://github.com/yabr87/filmoteka-group-project">Filmoteka<a/>
+
 ### My stack languages and tools:
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -38,16 +33,18 @@ ___
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 
 &nbsp;
-<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yabr87)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+
+
 
 <!--
 **yabr87/yabr87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabr87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yabr87)](https://git.io/streak-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning coding...
