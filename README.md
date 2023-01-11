@@ -14,7 +14,7 @@ I am a **junior** Front-End Developer from **Ukraine** .
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
-
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 
@@ -44,7 +44,7 @@ I am a **junior** Front-End Developer from **Ukraine** .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabr87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yabr87)](https://git.io/streak-stats)
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+
 
 
 - 🔭 I’m currently working on ...
