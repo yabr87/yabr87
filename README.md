@@ -5,7 +5,6 @@ I am a **junior** Front-End Developer from **Ukraine** .
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
   
 ### My project experience
-https://github.com/yabr87/goit-react-hw-08-phonebook
 - 📄  <a href="https://github.com/yabr87/goit-react-hw-08-phonebook">Phonebook<a/>
 - 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
 - 📄  <a href="https://github.com/yabr87/BarberShop">Barber Shop<a/>
