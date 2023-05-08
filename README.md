@@ -7,10 +7,10 @@ I am a **junior** Front-End Developer from **Ukraine** .
 ### My project experience
 - 📄  <a href="https://github.com/yabr87/nodejs-homework-rest-api">Phonebook REST API<a/>
 - 📄  <a href="https://github.com/yabr87/goit-react-hw-08-phonebook">Phonebook<a/>
-- 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
-- 📄  <a href="https://github.com/yabr87/BarberShop">Barber Shop<a/>
-- 📄  <a href="https://github.com/yabr87/3d-freedom-group11">3D freedom<a/>
 - 📄  <a href="https://github.com/yabr87/filmoteka-group-project">Filmoteka<a/>
+- 📄  <a href="https://github.com/yabr87/3d-freedom-group11">3D freedom<a/>
+- 📄  <a href="https://github.com/yabr87/BarberShop">Barber Shop<a/>
+- 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
 
 ### My stack languages and tools:
 
