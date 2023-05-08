@@ -26,7 +26,6 @@ I am a **junior** Front-End Developer from **Ukraine** .
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/> 
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -45,6 +44,9 @@ I am a **junior** Front-End Developer from **Ukraine** .
 
 <!--
 **yabr87/yabr87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabr87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yabr87)](https://git.io/streak-stats)
