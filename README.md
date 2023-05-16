@@ -13,11 +13,11 @@ I am a **junior** JS Developer from **Ukraine** .
 - 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
 
 ### My stack languages and tools:
-  
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
  
 
 
@@ -26,10 +26,10 @@ I am a **junior** JS Developer from **Ukraine** .
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>
-
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="EXPRESS" alt="SASS" width="40" height="40"/>
 
 
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/> 
@@ -43,9 +43,6 @@ I am a **junior** JS Developer from **Ukraine** .
  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
 
 &nbsp;
-
-  
-
 
 
 <!--
