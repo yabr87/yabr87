@@ -5,6 +5,8 @@ I am a **junior** JS Developer from **Ukraine** .
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
   
 ### My project experience
+- 📄  <a href="https://github.com/yabr87/purrfect-match-frontend">Purrfect match<a/> frontend
+- 📄  <a href="https://github.com/yabr87/purrfect-match-backend">Purrfect match<a/> backend
 - 📄  <a href="https://github.com/yabr87/nodejs-homework-rest-api">Phonebook REST API<a/>
 - 📄  <a href="https://github.com/yabr87/goit-react-hw-08-phonebook">Phonebook<a/>
 - 📄  <a href="https://github.com/yabr87/filmoteka-group-project">Filmoteka<a/>
