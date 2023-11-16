@@ -1,4 +1,4 @@
-### Hi there, I'm Yaroslav 🇺🇦 👋
+### Hi there, I'm Yaroslav 🇺🇦 👋 
 I am a **junior** JS Developer from **Ukraine** .
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me:
@@ -42,10 +42,17 @@ I am a **junior** JS Developer from **Ukraine** .
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   
- <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
 
 &nbsp;
 
+&nbsp;
+ 
+<div align="center">
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yabr87.yabr87)
+
+</div> 
 
 <!--
 **yabr87/yabr87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
