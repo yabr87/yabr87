@@ -1,5 +1,5 @@
 ### Hi there, I'm Yaroslav 🇺🇦 👋 
-I am a **junior** JS Developer from **Ukraine** .
+I am a JS Developer from **Ukraine** .
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
@@ -48,12 +48,6 @@ I am a **junior** JS Developer from **Ukraine** .
 
 &nbsp;
  
-<div align="center">
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yabr87.yabr87)
-
-</div> 
-
 <!--
 **yabr87/yabr87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
