@@ -1,6 +1,5 @@
 ### Hi there, I'm Yaroslav 👋 
-I am a JS Developer
-- 🌱 I’m currently learning coding.
+I am a Front End
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
   
