@@ -7,7 +7,7 @@ I am a Front End developer
 
 About
 
-- 📄  <a href="https://cortex-lab.netlify.app">Cortex Lab<a/>
+- 📄  <a href="https://cortexlab.ai">Cortex Lab<a/>
 - 📄  <a href="https://get.ffcapp.com">FanClub<a/>
 - 📄  <a href="https://github.com/yabr87/purrfect-match-frontend">Purrfect match<a/> frontend
 - 📄  <a href="https://github.com/yabr87/purrfect-match-backend">Purrfect match<a/> backend
