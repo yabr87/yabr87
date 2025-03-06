@@ -8,6 +8,7 @@ I am a Front End developer
 - 📄  <a href="https://topconstructionreviews.com/">Top Construction Reviews<a/>
 - 📄  <a href="https://townup.co">Townup<a/>
 - 📄  <a href="https://get.ffcapp.com">FanClub<a/>
+- 📄  <a href="https://salygason.kiev.ua">Salyga & Son<a/>
 - 📄  <a href="https://cortexlab.ai">Cortex Lab<a/>
 
 
@@ -26,16 +27,19 @@ I am a Front End developer
   
  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
-
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>
+
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
 
  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
  
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="EXPRESS" alt="SASS" width="40" height="40"/>
+
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>
  
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
 &nbsp;
 
