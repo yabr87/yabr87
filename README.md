@@ -2,21 +2,13 @@
 I am a Front End developer
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-yabr87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabr87/)
-  
+
 ### My project experience
 
-About
-
-- 📄  <a href="https://cortexlab.ai">Cortex Lab<a/>
+- 📄  <a href="https://topconstructionreviews.com/">Top Construction Reviews<a/>
 - 📄  <a href="https://get.ffcapp.com">FanClub<a/>
-- 📄  <a href="https://github.com/yabr87/purrfect-match-frontend">Purrfect match<a/> frontend
-- 📄  <a href="https://github.com/yabr87/purrfect-match-backend">Purrfect match<a/> backend
-- 📄  <a href="https://github.com/yabr87/nodejs-homework-rest-api">Phonebook REST API<a/>
-- 📄  <a href="https://github.com/yabr87/goit-react-hw-08-phonebook">Phonebook<a/>
-- 📄  <a href="https://github.com/yabr87/filmoteka-group-project">Filmoteka<a/>
-- 📄  <a href="https://github.com/yabr87/3d-freedom-group11">3D freedom<a/>
-- 📄  <a href="https://github.com/yabr87/BarberShop">Barber Shop<a/>
-- 📄  <a href="https://github.com/yabr87/goit-markup-hw-08">Web Studio<a/>
+- 📄  <a href="https://cortexlab.ai">Cortex Lab<a/>
+
 
 ### My stack languages and tools:
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
